@@ -1,0 +1,22 @@
+{
+  "name": "codewithsaad-atm-machine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.8"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.2",
+    "inquirer": "^9.2.20"
+  }
+}
